@@ -34,7 +34,7 @@ Maintaining Data
 
 This City Council Data is maintained in a Google Spreadsheet.  This data can be updated by the general public, and we will be notified when any change occurs.  So, if you see something wrong, just go ahead and fix it and we'll get a notice of the change.
 
-You will want to use [San Francisco's Official City Council Website](https://www.cityofchicago.org/city/en/about/wards.html) to populate this data. However, they may not have 100% of what we collect, so Google is your friend there :)
+You will want to use [San Francisco's Official City Council Website](http://sfbos.org/) to populate this data. However, they may not have 100% of what we collect, so Google is your friend there :)
 
 ### [☑ Manage City Council Data](https://docs.google.com/spreadsheets/d/16dfZjy5w1_wk8dHhG0bnXuc17dr8OSNceOHSiSVabII/edit?usp=sharing)
 

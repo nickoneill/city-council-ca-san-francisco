@@ -14,7 +14,7 @@ Update CSV File
 
 This City Council Data is maintained in a Google Spreadsheet.  
 
-* Go to [City Council Data](http://bit.ly/city-council-il-chicago)
+* Go to [City Council Data](https://docs.google.com/spreadsheets/d/16dfZjy5w1_wk8dHhG0bnXuc17dr8OSNceOHSiSVabII/edit#gid=0)
 * Select `File > Download as > Comma-separated values (.csv, current sheet)`
 * Save file as `./uploads/city-council-data.csv`
 
