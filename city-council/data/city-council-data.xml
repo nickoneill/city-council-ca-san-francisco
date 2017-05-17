@@ -1,0 +1,564 @@
+<?xml version='1.0'?>
+<city-council>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>1</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Sandra Lee Fewer</name>
+        <name_slug>sandra-lee-fewer</name_slug>
+        <first_name>Sandra Lee</first_name>
+        <middle_name>Sandra Lee</middle_name>
+        <last_name>Fewer</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>asian-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2017-01-01</entered_office>
+        <term_end>2021-01-01</term_end>
+        <email>sandra.fewer@sfgov.org</email>
+        <phone>415-554-7410</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>SandraLeeFewer</twitter_handle>
+        <twitter_url>https://twitter.com/SandraLeeFewer</twitter_url>
+        <facebook_url>https://www.facebook.com/SandraLeeFewer/</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>2</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Mark Farrell</name>
+        <name_slug>mark-farrell</name_slug>
+        <first_name>Mark</first_name>
+        <middle_name>Mark</middle_name>
+        <last_name>Farrell</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2011-01-01</entered_office>
+        <term_end>2021-01-01</term_end>
+        <email>mark.farrell@sfgov.org</email>
+        <phone>415-554-7752</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>MarkFarrellSF</twitter_handle>
+        <twitter_url>https://twitter.com/MarkFarrellSF</twitter_url>
+        <facebook_url>https://www.facebook.com/markfarrellsf</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>3</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Aaron Peskin</name>
+        <name_slug>aaron-peskin</name_slug>
+        <first_name>Aaron</first_name>
+        <middle_name>Aaron</middle_name>
+        <last_name>Peskin</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2016-11-01</entered_office>
+        <term_end>2020-01-01</term_end>
+        <email>aaron.peskin@sfgov.org</email>
+        <phone>415-554-7450</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>AaronPeskin</twitter_handle>
+        <twitter_url>https://twitter.com/AaronPeskin</twitter_url>
+        <facebook_url>null</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>4</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Katy Tang </name>
+        <name_slug>katy-tang</name_slug>
+        <first_name>Katy</first_name>
+        <middle_name>Katy</middle_name>
+        <last_name>Tang </last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>asian-american</ethnicity>
+        <date_of_birth>1983-12-10</date_of_birth>
+        <entered_office>2014-11-01</entered_office>
+        <term_end>2019-11-01</term_end>
+        <email>katy.tang@sfgov.org</email>
+        <phone>415-554-7460</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>supervisortang</twitter_handle>
+        <twitter_url>https://twitter.com/supervisortang</twitter_url>
+        <facebook_url>null</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>5</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>president</title>
+        <party>democrat</party>
+        <name>London Breed</name>
+        <name_slug>london-breed</name_slug>
+        <first_name>London</first_name>
+        <middle_name>London</middle_name>
+        <last_name>Breed</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>african-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2015-01-08</entered_office>
+        <term_end>2019-01-08</term_end>
+        <email>london.breed@sfgov.org</email>
+        <phone>415-554-7630</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>londonbreed</twitter_handle>
+        <twitter_url>https://twitter.com/londonbreed</twitter_url>
+        <facebook_url>null</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>6</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Jane Kim</name>
+        <name_slug>jane-kim</name_slug>
+        <first_name>Jane</first_name>
+        <middle_name>Jane</middle_name>
+        <last_name>Kim</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>asian-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2011-01-08</entered_office>
+        <term_end>2019-01-01</term_end>
+        <email>jane.kim@sfgov.org</email>
+        <phone>415-554-7970</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>San</address_sec_unit_num>
+        <address_city>Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>janekim</twitter_handle>
+        <twitter_url>https://twitter.com/janekim</twitter_url>
+        <facebook_url>https://www.facebook.com/JaneKimCA/</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>7</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Norman Yee</name>
+        <name_slug>norman-yee</name_slug>
+        <first_name>Norman</first_name>
+        <middle_name>Norman</middle_name>
+        <last_name>Yee</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>male</gender>
+        <ethnicity>asian-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2013-01-08</entered_office>
+        <term_end>2021-01-08</term_end>
+        <email>norman.yee@sfgov.org</email>
+        <phone>415-554-6516</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>NormanYeeSF</twitter_handle>
+        <twitter_url>https://twitter.com/NormanYeeSF</twitter_url>
+        <facebook_url>https://www.facebook.com/NormanYeeSF</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>8</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Jeff Sheehy</name>
+        <name_slug>jeff-sheehy</name_slug>
+        <first_name>Jeff</first_name>
+        <middle_name>Jeff</middle_name>
+        <last_name>Sheehy</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2017-01-09</entered_office>
+        <term_end>2021-01-08</term_end>
+        <email>jeff.sheehy@sfgov.org</email>
+        <phone>415-554-6968</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>jeffsheehysf</twitter_handle>
+        <twitter_url>https://twitter.com/jeffsheehysf</twitter_url>
+        <facebook_url>null</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>9</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Hillary Ronen</name>
+        <name_slug>hillary-ronen</name_slug>
+        <first_name>Hillary</first_name>
+        <middle_name>Hillary</middle_name>
+        <last_name>Ronen</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2017-01-09</entered_office>
+        <term_end>2021-01-08</term_end>
+        <email>carolina.morales@sfgov.org</email>
+        <phone>415-554-7743</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>HillaryRonen</twitter_handle>
+        <twitter_url>https://twitter.com/HillaryRonen</twitter_url>
+        <facebook_url>null</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>10</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Malia Cohen</name>
+        <name_slug>malia-cohen</name_slug>
+        <first_name>Malia</first_name>
+        <middle_name>Malia</middle_name>
+        <last_name>Cohen</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>african-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2011-01-08</entered_office>
+        <term_end>2019-01-01</term_end>
+        <email>maila.cohen@sfgov.org</email>
+        <phone>415-554-7670</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>maliacohen</twitter_handle>
+        <twitter_url>https://twitter.com/maliacohen</twitter_url>
+        <facebook_url>https://www.facebook.com/MaliaCohen</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <city_name>San Francisco</city_name>
+        <city_name_slug>san-francisco</city_name_slug>
+        <district>11</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <title>supervisor</title>
+        <party>democrat</party>
+        <name>Ahsha Safai</name>
+        <name_slug>ahsha-safai</name_slug>
+        <first_name>Ahsha</first_name>
+        <middle_name>Ahsha</middle_name>
+        <last_name>Safai</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>null</pronunciation>
+        <gender>female</gender>
+        <ethnicity>asian-american</ethnicity>
+        <date_of_birth>null</date_of_birth>
+        <entered_office>2017-01-09</entered_office>
+        <term_end>2021-01-09</term_end>
+        <email>ahsha.safai@sfgov.org</email>
+        <phone>415-554-6975</phone>
+        <latitude>37.7555157</latitude>
+        <longitude>-122.460985</longitude>
+        <address_complete>1 Dr. Carlton B. Goodlett Place, Room 244, San Francisco, Ca 94102-4689</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Dr Carlton B. Goodlett</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>244</address_sec_unit_num>
+        <address_city>San Francisco</address_city>
+        <address_state>Ca</address_state>
+        <address_zipcode>94102</address_zipcode>
+        <address_type>Place</address_type>
+        <population>2720546</population>
+        <background_url>https://cdn.civil.services/city-council/ca/san-francisco/backgrounds/1280x720/city.jpg</background_url>
+        <city_government_url>http://sfgov.org</city_government_url>
+        <city_council_url>http://sfbos.org</city_council_url>
+        <city_council_calendar_url>https://sfgov.legistar.com/Calendar.aspx</city_council_calendar_url>
+        <city_council_legislation_url>https://sfgov.legistar.com/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://sfbos.org/committees</city_council_committees_url>
+        <twitter_handle>null</twitter_handle>
+        <twitter_url>null</twitter_url>
+        <facebook_url>null</facebook_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/san-francisco/headshots/512x512/no-photo.jpg</photo_url>
+    </councilor>
+</city-council>
