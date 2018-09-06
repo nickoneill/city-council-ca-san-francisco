@@ -248,11 +248,11 @@ if (fs.existsSync(core)) {
 
       if (currentRow === 0) {
         var header = Object.keys(convertedData).join(',') + '\n';
-        fs.appendFile(converted, header);
+        fs.appendFileSync(converted, header);
       }
 
       var row = '"' + Object.values(convertedData).join('","').replace(/""/g, '') + '"' + '\n';
-      fs.appendFile(converted, row);
+      fs.appendFileSync(converted, row);
 
       console.log('✓ Processed ' + data.first_name + ' ' + data.last_name);
 
